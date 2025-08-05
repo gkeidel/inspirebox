@@ -1,6 +1,6 @@
-# Quotes App - LLM Instructions
+# Inspire Box - LLM Instructions
 
-This is a web application for managing quotes (citations) using Ruby on Rails 8 and Bootstrap 5.3.
+This is a web application for managing quotes (citations) using Ruby on Rails 8 and picocss.
 
 ## Code Style and Language
 
@@ -15,7 +15,6 @@ This is a web application for managing quotes (citations) using Ruby on Rails 8 
 - Follow all **Rails 8 conventions**, including MVC structure, RESTful routes, and service objects.
 - Use **partials** in views to reuse components and keep templates clean.
 - Prefer the use of `before_action` callbacks in controllers to keep logic DRY.
-
 
 ## Frontend (picocss)
 
